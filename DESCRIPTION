@@ -1,0 +1,14 @@
+Package: atools
+Type: Package
+Title: Personal utility package
+Version: 0.1.0
+Author: Andrew Weatherman
+Maintainer: Andrew Weathermanr <taw38@duke.edu>
+Description: Package with helper functions for personal use
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
+Imports: 
+    dplyr,
+    magrittr
